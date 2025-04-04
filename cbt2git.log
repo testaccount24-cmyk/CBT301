@@ -1,0 +1,7 @@
+2025-04-04 07:30:50.604185 - Received CBT.V508.FILE301.PDS from FILE301.XMI 
+2025-04-04 07:30:50.604872 - Found $$$$NOTE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$$NOTE
+2025-04-04 07:30:50.605015 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:30:50.605154 - Found @FILE301.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/@FILE301
+2025-04-04 07:30:50.605295 - Found CDSCB.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB
+2025-04-04 07:30:50.605611 - Found CDSCB$.jcl (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB$
+2025-04-04 07:30:50.605898 - Found CDSCB#.txt (text/plain) in CBT.V508.FILE301.PDS, moved to PDS/CDSCB#
